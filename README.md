@@ -229,51 +229,11 @@ The model is trained and evaluated on psychotherapy dialogue datasets. The data 
 - **Gradient Accumulation**: Efficient training with limited memory
 - **Learning Rate Scheduling**: Linear warmup with decay
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/new-feature`)
-5. Create a Pull Request
-
-## 📄 Citation
-
-If you use this code in your research, please cite our paper:
-
-```bibtex
-@article{your_paper_2024,
-  title={Discourse-Guided Summarisation of Psychotherapy Dialogues via Graph-Fused Language Models},
-  author={Your Name and Co-authors},
-  journal={Conference/Journal Name},
-  year={2024}
-}
-```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Meta AI for the LLaMA model
 - PyTorch Geometric team for graph neural network implementations
 - Hugging Face for transformer implementations
 - Contributors to the psychotherapy dialogue datasets
-
-## 📞 Contact
-
-For questions and support:
-- **Email**: ankit201921@gmail.com
-- **GitHub Issues**: [Open an issue](https://github.com/minimilist/TheraFuse/issues)
-
-## 🔄 Version History
-
-- **v1.0.0** (2024): Initial release with LLaMA-3.1 integration
-- **v0.9.0** (2024): Beta release with core functionality
-
----
 
 **Keywords**: Psychotherapy, Dialogue Summarization, Graph Neural Networks, Large Language Models, Discourse Analysis, Healthcare AI
